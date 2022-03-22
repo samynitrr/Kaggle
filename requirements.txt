@@ -5,4 +5,7 @@ seaborn
 joblib
 notebook
 sklearn
+<<<<<<< HEAD
 pandas_profiling
+=======
+>>>>>>> 6db80dd491912b3b51059e37db767ae18b4e934e
